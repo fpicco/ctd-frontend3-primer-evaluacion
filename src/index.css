@@ -52,6 +52,12 @@ ul {
   display: flex;
   gap: 10px;
 }
+.displayNone {
+  display: none;
+}
+.displayBlock {
+  display: block;
+}
 .historyList {
   display: flex;
   gap: 10px;

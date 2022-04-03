@@ -79,6 +79,7 @@ class Story extends Component {
                         ),
                         this.state.positionId
                     )}
+                    isOver={this.state.isOver}
                 />
             </div>
         )
